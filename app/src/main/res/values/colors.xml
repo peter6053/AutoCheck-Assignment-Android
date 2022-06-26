@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eerieBlack">#0F1327</color>
+    <color name="ceil">#989ACF</color>
+    <color name="ceil_light">#E6E5F3</color>
+    <color name="crayola">#FFCC66</color>
+    <color name="lotion">#FAFAFA</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
